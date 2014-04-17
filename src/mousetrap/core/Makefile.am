@@ -10,7 +10,7 @@ ocvfw_python_PYTHON = \
 	image_library.py \
 	motion_tracker.py \
 	pointer.py \
-	pointer_manager \
+	pointer_manager.py \
 	settings.py \
 	tracker.py
 

@@ -10,7 +10,7 @@ mousetrap_python_PYTHON = \
 	environment.py \
 	controller.py
 
-SUBDIRS = app ocvfw
+SUBDIRS = app ocvfw core
 
 mousetrap_pythondir=$(pyexecdir)/mousetrap/
 

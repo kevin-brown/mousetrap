@@ -83,6 +83,7 @@ docs/doxygen/Doxyfile
 images/Makefile
 src/Makefile
 src/mousetrap/Makefile
+src/mousetrap/core/Makefile
 src/mousetrap/app/Makefile
 src/mousetrap/environment.py
 src/mousetrap/app/lib/Makefile
